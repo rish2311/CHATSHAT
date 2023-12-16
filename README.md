@@ -1,3 +1,3 @@
 
-# "Build a Chat Application named CHATSHAT for real time conversations"
+# "Building a Chat Application named CHATSHAT for real time conversations"
 
